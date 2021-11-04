@@ -26,7 +26,4 @@ Bot Owner Only
 /delete Delete File From Database
 
 """
-
-ABOUT = """
- AUTO FILTER BOTV333
  

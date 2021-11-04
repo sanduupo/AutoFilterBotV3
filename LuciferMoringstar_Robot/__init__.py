@@ -27,6 +27,6 @@ Bot Owner Only
 
 """
 
-ABOUT 
+ABOUT = """
 ➥ Name :  Auto Filter V3JJJ
  

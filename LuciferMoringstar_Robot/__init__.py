@@ -27,14 +27,6 @@ Bot Owner Only
 
 """
 
-ABOUT = """
+ABOUT 
 ➥ Name :  Auto Filter V3JJJ
-    
-➥ Creator : UNKNOWN
-
-➥ Language : Python3
-
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Tutorial : NONE
-"""
+ 
